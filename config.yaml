@@ -1,0 +1,9 @@
+bot: 
+   token: "tokencik"
+   prefix: "defcim!"
+   owners: ["739405238133325875"]
+
+server: 
+   voiceChannel: "779335057356750908"
+   hosgeldin: "https://cdn.discordapp.com/attachments/791751721754951720/791756628860338176/Dark_Monarca_Reg.mp3"
+   register: "776429590671392788"
